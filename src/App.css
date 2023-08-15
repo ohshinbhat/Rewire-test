@@ -179,17 +179,18 @@
   flex-direction: row;
   align-items: center;
   margin: 80px 100px;
-  min-height: 100vh;
-  min-width: 100vw;
+  gap: 70px;
+  justify-content: space-between;
 }
 
 .work-left{
-    flex: 55%;
+    flex: 45%;
     display: flex;
     flex-direction: column;
 }
 .work-right{
-    flex:45%;
+    flex:55%;
+    overflow: hidden;
 }
 
 .header3 {
@@ -212,15 +213,15 @@
   font-weight: 700;
 }
 .push{
-  font-size: 1.25rem;
+  font-size: 1rem;
   margin-top: 30px;
-  padding: 12px 36px;
   background-color: #000da1;
   font-weight: 700;
   color: white;
   border: none;
   border-radius: 30px;
   cursor: pointer;
+  padding: 20px;
 
 }
 
@@ -233,7 +234,8 @@
 
 .work-right img{
   align-self: center;
-  scale: 250%;
+  scale: 80%;
+
 }
 
 

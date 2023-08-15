@@ -10,7 +10,7 @@ import ss3 from '../assets/slider3.jpg'
 import ss4 from '../assets/slider4.jpg'
 import ss5 from '../assets/slider5.jpg'
 import Contact from './Contact'
-
+import brain from '../assets/Asset.svg'
 
 const Home = () => {
     return (
@@ -94,7 +94,7 @@ const Home = () => {
                         <button className='push'>Get Started</button>
                     </div>
                     <div className='work-right'>
-                        <img />
+                        <img src={brain} className='sideimg' />
                     </div>
 
                 </section>
