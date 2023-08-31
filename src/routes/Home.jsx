@@ -32,7 +32,7 @@ const Home = () => {
                     </nav>
                     <div>
                         <header className="hero">
-                            <div className="header1">Rewire Your Mind</div>
+                            <div className="header1">Rewire Your Brain</div>
                             <div className="header2">Brain Training Personalized to your needs</div>
                             <button>Try For Free</button>
                         </header>
