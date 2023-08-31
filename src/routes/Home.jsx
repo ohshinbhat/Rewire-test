@@ -86,8 +86,8 @@ const Home = () => {
                     <div className='work-left'>
                         <header className='header3'>How Rewire Works</header>
                         <p className='header4'>
-                            <span className='line'>Rewire&apos;s team of psychiatrists know that everyone&apos;s different, and not all of us can afford to sit for hours a day playing games. <br /></span>
-                            <span className='line'>So we came up with a system that takes <span className='boldtxt'>only 10 minutes a day.</span> <br /></span>
+                            <span className='line'>Rewire&apos;s team of psychologists know that everyone&apos;s different, and not all of us can afford to sit for hours a day playing games. <br /></span>
+                            <span className='line'>So we came up with a system that takes <span className='boldtxt'>only 20 minutes a day.</span> <br /></span>
                             <span className='line'>Our carefully crafted games target key areas such as memory, attention, problem-solving, and more. By consistently challenging your brain, you'll notice improved focus, enhanced memory retention, and sharper cognitive skills in your everyday life. <br /></span>
 
                         </p>
